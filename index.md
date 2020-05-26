@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My Baby Arithmetic Fun Training
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/MyBabyArithmeticFunTraining/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the process of baby's growing up, as the closest parent to baby, we often teach children the simple use of number practice and arithmetic. This app can customize numbers and arithmetic of different difficulty according to baby's knowledge level, and add interesting ways to find boxes and numbers, hide the numbers in pictures and boxes. Baby needs to open the boxes and find the right numbers Fill in the blanks so that the equation holds. In this process, the parents can help the baby number and train the number arithmetic ability.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-```markdown
-Syntax highlighted code block
+We will answer them for you in the first time.
 
-# Header 1
-## Header 2
-### Header 3
+### Address: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/MyBabyArithmeticFunTraining/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
