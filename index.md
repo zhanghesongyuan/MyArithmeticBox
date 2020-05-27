@@ -1,8 +1,8 @@
-## Welcome to My Baby Arithmetic Fun Training
+## Welcome to My Arithmetic Box
 
 ![Image](icon-1024.png)
 
-In the process of baby's growing up, as the closest parent to baby, we often teach children the simple use of number practice and arithmetic. This app can customize numbers and arithmetic of different difficulty according to baby's knowledge level, and add interesting ways to find boxes and numbers, hide the numbers in pictures and boxes. Baby needs to open the boxes and find the right numbers Fill in the blanks so that the equation holds. In this process, the parents can help the baby number and train the number arithmetic ability.
+This application can customize numbers and arithmetic of different difficulty according to each person's knowledge level, add interesting ways to find boxes and numbers, hide the numbers in the pictures and boxes, at the beginning of arithmetic practice, you need to open the boxes and find the correct numbers to fill in the blanks, so that the equation is true. In this process, it can help us understand numbers and train the ability of number arithmetic.
 
 
 If you have any questions, you can either leave a message or send the questions to our email address.
